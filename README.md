@@ -25,10 +25,10 @@ Python utilities
 
 ___________________________
 Step 1: Add any new files as part of the commit, or use git add -p to interactively select hunks to stage:
-              git add file1 file2 …
+git add file1 file2 …
 
 Step 2: Commit to local
-              git commit -m "Commit message goes here"
+git commit -m "Commit message goes here"
 
 Step 3: Push your commit/changes to the host (github)
-             git push
+git push
