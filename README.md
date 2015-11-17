@@ -24,12 +24,11 @@ Python utilities
 
 
 ___________________________
-1: Add any new files as part of the commit
-   or use git add -p to interactively select hunks to stage
-        git add file1 file2 …
+Step 1: Add any new files as part of the commit, or use git add -p to interactively select hunks to stage:
+#        git add file1 file2 …
 
-2: Commit to local
-        git commit -m "Commit message goes here"
+Step 2: Commit to local
+#        git commit -m "Commit message goes here"
 
-3: Push your commit/changes to the host (github)
-        git push
+Step 3: Push your commit/changes to the host (github)
+#        git push
